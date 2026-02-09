@@ -1,0 +1,9 @@
+2. Print your name
+Test Case 1
+Output: Sivan
+
+#include <stdio.h>
+int main() {
+    printf("Sivan");
+    return 0;
+}

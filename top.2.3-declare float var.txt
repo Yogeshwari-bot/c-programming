@@ -1,0 +1,12 @@
+10. Assign value later and print
+Test Case 1
+Output: 10
+
+
+#include <stdio.h>
+int main() {
+    int a;  // later a value ah assign pantrom var declare panitu
+    a= 10;   
+    printf("%d",a);
+    return 0;
+}
