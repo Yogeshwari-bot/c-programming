@@ -1,0 +1,20 @@
+2. Check Even or Odd
+Input: 7
+Output: Odd number
+
+
+
+#include <stdio.h>
+
+int main()
+{
+    int num;
+    scanf("%d",&num);
+    if(num==2){
+        printf("Even number");
+    }
+        else{
+            printf("Odd number");
+        }
+    return 0;
+}

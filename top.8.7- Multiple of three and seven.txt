@@ -1,0 +1,5 @@
+8. Multiple of 3 and 7
+Input: 21
+Output: Multiple of both 3 and 7
+
+
