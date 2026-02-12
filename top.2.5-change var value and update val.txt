@@ -1,0 +1,12 @@
+//5. Change variable value and print updated value
+//Test Case 1
+//Output: 20
+
+
+#include <stdio.h>
+int main() {
+    int a=10;
+    a=20;
+    printf("%d",a);
+    return 0;
+}
